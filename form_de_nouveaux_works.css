@@ -1,0 +1,21 @@
+
+body{
+    background-color: #F0DE39;
+}
+.center{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+h2{
+    font-family: 'Six Caps', sans-serif;
+    text-align: center;
+    font-size: 500%;
+    position: relative;
+    margin-bottom: 0%;
+    color: white;
+}
+.form{
+    text-align: center;
+}

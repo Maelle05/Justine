@@ -1,0 +1,45 @@
+.img_fond{
+    margin-top: 5%;
+    background-color:white;
+    background-image: url(images/image_fond_petite.PNG) ;
+    background-repeat:no-repeat;
+}
+.back{
+    text-align: right;
+    font-family: 'Courier Prime', monospace;
+    font-size: 150%;
+    padding-top: 4%;
+    padding-right: 2%;
+}
+.titre_page{
+    font-family: 'Six Caps', sans-serif;
+    text-align: center;
+    font-size: 500%;
+    position: relative;
+    margin-bottom: 0%;
+}
+#carre_titre {
+    position: absolute;
+    height: 5em;
+    width: 20em;
+    background-color:#F0DE39;
+    position: center;
+    margin-left: 41%;
+    margin-top: 5%;
+}
+.justine_p{
+    display: flex;
+    padding-bottom: 12%;
+}
+.img_justine{
+    width: 350px;
+    margin-left: 30%;
+    z-index: 30;
+    position: relative;
+}
+.presentation_juju{
+    padding-left: 3%;
+    padding-top: 8%;
+    font-family: 'Courier Prime', monospace;
+    font-size: 150%;
+}

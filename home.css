@@ -1,0 +1,36 @@
+body{
+    background-color:white;
+    background-image: url(images/image_fond.jpg) ;
+    background-size: 34%;
+    background-repeat:no-repeat;
+}
+#carre {
+    height: 40em;
+    width: 40em;
+    background-color:#F0DE39;
+    position: center;
+    margin-left: 30%;
+    margin-top: 7%;
+}
+
+h1{
+    font-family: 'Six Caps', sans-serif;
+    color: white;
+    font-size: 12em;
+    text-align: right;
+    padding-top: 13%;
+}
+.underline-title {
+	border-bottom: 2px solid #010101;
+}
+.menu_items_1{
+    font-family: 'Six Caps', sans-serif;
+    margin-left: 32%;
+    font-size: 200%;
+}
+.menu_items{
+    font-family: 'Six Caps', sans-serif;
+    margin-left: 10%;
+    font-size: 200%;
+
+}
