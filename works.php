@@ -9,7 +9,6 @@
         $bdd = new PDO('mysql:host=localhost;dbname=articles;charset=utf8', 'root', ''); 
         $works = $bdd->query('SELECT * FROM articles ORDER BY id DESC');
 
-
         ?>
     </head>
     <body>
